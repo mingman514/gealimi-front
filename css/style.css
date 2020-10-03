@@ -773,6 +773,11 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 15px;
   }
 }
+@media (min-width: 1200px) {
+  #team .member .pic {
+    margin-bottom: 15px;
+  }
+}
 #team .member .pic img {
   max-width: 100%;
 }
